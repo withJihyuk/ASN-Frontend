@@ -16,10 +16,10 @@ export default function Home() {
                 Beyond Simple
               </h1>
               <h1 className="text-blue-500 mb-5">
-                Deploy In 7 minute
+                Network In 7 minute
               </h1>
               <p className="text-base md:text-lg text-gray-700 mb-10 max-w-lg">
-                게임 서버, 프로덕트 배포, 비지니스 서비스 등 다양한 인프라 기반 서비스
+                게임 서버, 서비스 배포 등 다양한 네트워크 기반 서비스
                 <br/>
                 이젠 저희와 함께하세요
               </p>
@@ -84,7 +84,7 @@ export default function Home() {
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold mb-2">컨테이너 기반 호스팅</h3>
+                <h3 className="text-xl font-semibold mb-2">컨테이너 기반 무료 호스팅</h3>
                 <p className="text-gray-600 mb-4">
                   컨테이너 기반의 확장 가능한 호스팅을 제공합니다.
                   <br/>

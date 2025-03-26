@@ -42,7 +42,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <Link href="/services/consulting" className="text-gray-600 hover:text-blue-600">
-                  컨테이너 기반 호스팅
+                  컨테이너 호스팅
                 </Link>
               </li>
               <li>
